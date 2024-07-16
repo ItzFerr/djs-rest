@@ -96,7 +96,7 @@
     "typescript": "^5.4.5",
     "vitest": "^1.5.0",
     "@discordjs/scripts": "^0.1.0",
-    "@discordjs/api-extractor": "^7.38.1"
+    "@discordjs/api-extractor": "git+https://github.com/ItzFerr/api-e.git"
   },
   "engines": {
     "node": ">=16.11.0"
